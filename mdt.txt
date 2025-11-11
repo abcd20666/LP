@@ -1,0 +1,10 @@
+MOVER	&A	(P,0)
+ADD	&A	='1'
+MOVER	&B	(P,1)
+ADD	&B	='5'
+MEND
+MOVER	&U	(P,0)
+MOVER	&V	(P,1)
+ADD	&U	='15'
+ADD	&V	='10'
+MEND
